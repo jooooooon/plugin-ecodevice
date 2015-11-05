@@ -4,9 +4,13 @@ Ce plugin permet de gérer les cartes Ecodevice de GCE.
 Initialement, ce plugin a été créé pour connecter les Ecodevices de GCE.
 
 === Données visibles sur le Dashboard : ===
+
 * '''les compteurs de Téléinformation '''
+
 image::../images/ecodevice_screenshot2.jpg[]
+
 * '''les compteurs d'impulsions'''
+
 image::../images/ecodevice_screenshot3.jpg[]
 
 === Frequence de rafraichissement ===
